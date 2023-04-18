@@ -6,4 +6,4 @@ technology which I used to create this project
 * js
 * git
 
-[My CV online](https://dymitrgafarowski.github.io/cv/)
+[# My CV online](https://dymitrgafarowski.github.io/cv/)
