@@ -5,3 +5,5 @@ technology which I used to create this project
 * sass
 * js
 * git
+
+[My CV online] (https://dymitrgafarowski.github.io/cv/)
